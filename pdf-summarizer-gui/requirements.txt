@@ -1,0 +1,8 @@
+numpy
+pandas
+PyPDF2
+sentence-transformers
+openpyxl
+ollama
+PyQt5
+requests
