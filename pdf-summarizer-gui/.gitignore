@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# PyInstaller build folders
+build/
+dist/
+*.spec
+
+# Installer logs
+pip-log.txt
+
+# Visual Studio Code
+.vscode/

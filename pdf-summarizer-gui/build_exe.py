@@ -120,7 +120,7 @@ def build_executable():
     ]
     
     # Add icon if it exists
-    icon_path = project_root / "src" / "resources" / "icon.ico"
+    icon_path = project_root / "src" / "resources" / "app_icon.ico"
     if icon_path.exists():
         build_cmd.extend(["--icon", str(icon_path)])
     
